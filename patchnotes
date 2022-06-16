@@ -1,3 +1,3 @@
 1. Fixed temporary inventory issue for auto extract. 
 2. Fixed auto return issue for MMP when auto extract is not on.
-3. Extract is not only the top 4 slots as opposed to the previous updates (top 8 slots).
+3. Extract is now only the top 4 slots as opposed to the previous versions (top 8 slots).
