@@ -1,4 +1,1 @@
-1. Changed the "Hold Click" of auto return to 3.5s (from 3s) for premium users.
-2. Clicking "Set click 1 or 2" will now activate cabal (no need to left click cabal first).
-3. Changed the term "Link" ("Link MinMacro to Cabal") to "Assign" ("Assign MinMacro to Cabal").
-4. Changed "MuliClient Activation" to "MultiLauncher Activation" in the Home tab.
+1. Added auto cacncel BM after rechannel.
